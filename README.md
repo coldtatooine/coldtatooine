@@ -51,8 +51,8 @@ Hardware    →  M5Stack · LoRa · Arduino · ESP32
 If you work with product or AI, or want to build something meaningful in Brazil:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandrolima)
-[![Site](https://img.shields.io/badge/Makedir_Studio-111?style=flat&logo=vercel&logoColor=white)](https://makedir.studio)
-[![Email](https://img.shields.io/badge/email-ale@makedir.studio-333?style=flat&logo=gmail&logoColor=white)](mailto:ale@makedir.studio)
+[![Site](https://img.shields.io/badge/Makedir_Studio-111?style=flat&logo=vercel&logoColor=white)](https://makedir.com.br)
+[![Email](https://img.shields.io/badge/email-ale@makedir.studio-333?style=flat&logo=gmail&logoColor=white)](mailto:ale@makedir.com.br)
 
 ---
 
