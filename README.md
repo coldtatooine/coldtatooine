@@ -1,4 +1,4 @@
-# Hey, I'm Alê 👋☕
+# Hey, I'm Alê 👋☕🎮🧑‍💻🪵🪓📻
 
 Product, Design, and Applied AI — all at once. I work at the intersection of product strategy, functional prototyping, and LLM-powered automation. Hands-on, always.
 
