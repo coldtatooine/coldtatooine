@@ -18,7 +18,7 @@ I run **[Makedir Studio](https://makedir.studio)**, a solo micro-consultancy foc
 
 ## About me
 
-- 🏗️ **19+ years** in digital product: interaction design, product management, software engineering
+- 🏗️ **20+ years** in digital product: interaction design, product management, software engineering
 - 📍 Recife, Brazil — inside the Porto Digital tech hub
 
 ---
